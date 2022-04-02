@@ -13,3 +13,6 @@
 <p align="left"></a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rust-lang.org/" target="_blank"> <img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" alt="git" width="40" height="40"/> </a> </p>
 <h3 align="left">Currently learning:</h3>
 <a href="https://www.rust-lang.org/" target="_blank"> <img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" alt="git" width="40" height="40"/> </a>
+
+### i also type pretty fast (94wpm)
+![94wpm speed go brr](https://im5.ezgif.com/tmp/ezgif-5-67da8dda60.gif)
