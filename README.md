@@ -50,5 +50,3 @@
 <h3 align="left">Currently learning:</h3>
 <a href="https://www.rust-lang.org/" target="_blank"> <img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" alt="git" width="40" height="40"/> </a>
 
-### i also type pretty fast (94wpm)
-![94wpm speed go brr](https://im5.ezgif.com/tmp/ezgif-5-67da8dda60.gif)
