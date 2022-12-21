@@ -1,5 +1,5 @@
 <h1 align="center">DevER-M</h1>
-<h3 align="center">I like rust and tech....stuff</h3>
+<h3 align="center">I use arch btw</h3>
 
 ![](https://komarev.com/ghpvc/?username=DevER-M&style=plastic)
 
@@ -26,10 +26,6 @@
 <a href="https://www.rust-lang.org/">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" alt="rust" width=40 height=40 />
   </a>
-  
-<a href="https://www.gnu.org/software/bash/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width=40 height=40 />
-  </a>
 <a href="https://www.docker.com/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" alt="docker" width=40 height=40/>
   <a>
@@ -37,12 +33,7 @@
 <a href="https://github.com">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width=40 height=40 />
   <a>
- <a href="https://nodejs.org">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" alt="nodejs" width=40 height=40 />
-  <a>
- <a href="https://code.visualstudio.com/">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width=40 height=40 />
-  <a>
+
 
 </a> 
 </p>
