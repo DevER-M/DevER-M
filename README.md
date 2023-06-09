@@ -1,5 +1,4 @@
 <h1 align="center">DevER-M</h1>
-<h3 align="center">I use arch btw</h3>
 
 ![](https://komarev.com/ghpvc/?username=DevER-M&style=plastic)
 
