@@ -1,5 +1,3 @@
-<h1 align="center">DevER-M</h1>
-
 ![](https://komarev.com/ghpvc/?username=DevER-M&style=plastic)
 
 <a>
